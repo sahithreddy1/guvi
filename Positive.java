@@ -9,7 +9,7 @@ class Positive
   {
     System.out.println("Positive");
     }
-    else if(n<0)
+    else if(a<0)
     {
     System.out.println("Zero");
     }
