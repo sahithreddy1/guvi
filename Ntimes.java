@@ -11,7 +11,6 @@ class Ntimes
 	{
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
-		System.out.println("enter the string");
 		for(int i=0;i<n;i++)
 		System.out.println("hello");
 	}
